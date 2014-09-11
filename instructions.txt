@@ -1,0 +1,9 @@
+Monsters are coming at you from right.
+
+W , S : Ajust the angle of your gun.
+
+J : Shoot normal projectile.  0.5s cool Down
+
+K : Spuer weapon              3.0s cool Down
+
+---------------------------------------------
